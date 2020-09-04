@@ -21,7 +21,9 @@ h3 span:hover {
   text-decoration-line: underline;
   /* text-shadow: 3px 3px 1px #eb8cc6; */
 }
-
+p {
+  color: black;
+}
 h4 {
   text-align: center;
   padding: 30px;
